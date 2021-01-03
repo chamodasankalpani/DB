@@ -1,0 +1,11 @@
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.csprojAssemblyReference.cache
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.frmLogin.resources
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.frmCreateAccount.resources
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.Properties.Resources.resources
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.csproj.GenerateResource.cache
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.csproj.CoreCompileInputs.cache
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\bin\Debug\ISAD253SL.exe.config
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\bin\Debug\ISAD253SL.exe
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\bin\Debug\ISAD253SL.pdb
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.exe
+D:\NSBM 19.2\2 Y 1 Sem\ISAD253SL Databases\Project\ISAD253SL\ISAD253SL\obj\Debug\ISAD253SL.pdb
